@@ -11,6 +11,7 @@ namespace Odev2
     {
         public static void Main(string[] args)
         {
+            Console.ReferenceEquals();
             MainView.View();
 
         }
