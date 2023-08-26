@@ -1,0 +1,16 @@
+C:\Users\yusuf\source\repos\Odev2\obj\Debug\Odev2.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Odev2\obj\Debug\Odev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\source\repos\Odev2\obj\Debug\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\yusuf\source\repos\Odev2\bin\Debug\Odev2.exe
+C:\Users\yusuf\source\repos\Odev2\bin\Debug\Odev2.pdb
+C:\Users\yusuf\source\repos\Odev2\obj\Debug\Odev2.exe
+C:\Users\yusuf\source\repos\Odev2\obj\Debug\Odev2.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\DiaryApp\bin\Debug\Odev2.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\DiaryApp\bin\Debug\Odev2.exe
+C:\Users\yusuf\OneDrive\Masaüstü\DiaryApp\bin\Debug\Odev2.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\DiaryApp\obj\Debug\Odev2.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\DiaryApp\obj\Debug\Odev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\OneDrive\Masaüstü\DiaryApp\obj\Debug\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\DiaryApp\obj\Debug\Odev2.exe
+C:\Users\yusuf\OneDrive\Masaüstü\DiaryApp\obj\Debug\Odev2.pdb
