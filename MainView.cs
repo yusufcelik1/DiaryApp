@@ -17,6 +17,7 @@ namespace Odev2
             ConsoleKeyInfo karakter;
             do
             {
+
                 karakter = Console.ReadKey(true);
                 if (karakter.Key != ConsoleKey.Backspace && karakter.Key != ConsoleKey.Enter)
                 {
